@@ -2,7 +2,7 @@ body{
     background-color: hsl(47, 88%, 63%);
     min-height: 100vh;
 }
-main, footer, .image, .svg-container{
+main, footer, .image{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -10,13 +10,12 @@ main, footer, .image, .svg-container{
     font-family: figtree;
     font-weight: 500;
 }
-svg, .learning{
+img, .learning{
     border-radius: 10px;
 }
-.svg-container{
+img{
     margin-bottom: 15px;
-    max-width: 380px;
-    margin: 0 auto;
+    width: 380px;
 }
 p{
     font-size: 16px;
