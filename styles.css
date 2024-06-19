@@ -10,10 +10,10 @@ main, footer, .image{
     font-family: figtree;
     font-weight: 500;
 }
-img, .learning{
+.svg-container, .learning{
     border-radius: 10px;
 }
-img{
+.svg-container{
     margin-bottom: 15px;
     width: 380px;
 }

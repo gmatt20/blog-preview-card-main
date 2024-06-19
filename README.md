@@ -45,7 +45,7 @@ Users should be able to:
 
 I am learning to use much less resources when I am figuring out code. I have been able to solve most problems by myself but it would take longer to figure out. However, I do not mind the extra time and effort because I know that it goes a long way. 
 
-I had difficulties with CSS and styling as usual. My main issues were having everything aligned perfectly. I have used the div element multipe times which has helped. I am particularly concerned about CSS layout and aligning code. I have coded so that it is perfectly precise. This form of code is very particular, and I want to ideally make them general rather than specific. 
+I had difficulties with CSS and styling as usual. My main issues were having everything aligned perfectly. I have used the div element multiple times which has helped. I am particularly concerned about CSS layout and aligning code. I have coded so that it is perfectly precise. This form of code is very particular, and I want to ideally make them general rather than specific. 
 
 Otherwise, I have spent about 3 hours making the replica. I am very proud of it because I have used very minimal help and I have been able to solve most problems on my own! I have also sat down and completed this project in one sitting. which is a record for me. I enjoyed the process, even though I got frustrated along the way. But, I persisted, and look at what I did!
 
